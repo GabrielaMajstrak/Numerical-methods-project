@@ -1,6 +1,6 @@
 # Numerical-methods-project
 
-Welcome to the GitHub repository for our Numerical Methods class project: **Solving the Linear System Ax = b using the Block Gauss-Seidel Method**.
+Welcome to the GitHub repository for my Numerical Methods class project: **Solving the Linear System Ax = b using the Block Gauss-Seidel Method**.
 
 ## Project Overview
 
